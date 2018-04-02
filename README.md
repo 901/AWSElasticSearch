@@ -311,4 +311,7 @@ Append `?` and Key-value pairs to query the API. For example:
 
 `[URL]?sex=male&kingdom=Animalia&country=Belgium`
 
-Returns a JSON formatted object that can be parsed for data easily. 
+Returns a JSON formatted object that can be parsed for data easily.
+
+### Other
+[Dataset Source](https://github.com/ropensci/elastic_data/blob/master/data/gbif_data.json)
